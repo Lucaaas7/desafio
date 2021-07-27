@@ -8,7 +8,7 @@ Começando pelo HTML, há dois arquivos com formato html. Um é formulário e ou
 
 No formulário, foi dividido em 2 quadros no layout para visualizar com satisfação.
 
-(Foto)
+<img src="imagens2/html.png"/>
 
 E foi feito em formulário dentro do quadro 2.
 
